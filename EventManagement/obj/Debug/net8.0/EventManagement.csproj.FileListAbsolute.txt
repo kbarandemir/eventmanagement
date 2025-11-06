@@ -1,0 +1,8 @@
+/workspaces/eventmanagement/EventManagement/obj/Debug/net8.0/EventManagement.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/eventmanagement/EventManagement/obj/Debug/net8.0/EventManagement.AssemblyInfoInputs.cache
+/workspaces/eventmanagement/EventManagement/obj/Debug/net8.0/EventManagement.AssemblyInfo.cs
+/workspaces/eventmanagement/EventManagement/obj/Debug/net8.0/EventManagement.csproj.CoreCompileInputs.cache
+/workspaces/eventmanagement/EventManagement/obj/Debug/net8.0/EventManagement.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/eventmanagement/EventManagement/obj/Debug/net8.0/EventManagement.RazorAssemblyInfo.cache
+/workspaces/eventmanagement/EventManagement/obj/Debug/net8.0/EventManagement.RazorAssemblyInfo.cs
+/workspaces/eventmanagement/EventManagement/obj/Debug/net8.0/EventManagement.sourcelink.json
