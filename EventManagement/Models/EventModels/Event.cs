@@ -11,11 +11,11 @@ namespace EventManagement.Models.EventModels
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }
         public string Location { get; set; } = "";
-
         public int OrganizerId { get; set; }
         public Organizer Organizer { get; set; } = null!;
+        public int CategoryId { get; set; }
         public EventCategory Category { get; set; } = null!;
-        public ICollection<EventRegistration> EventRegistrations { get; set; } = new List<EventRegistration>();
+        // public ICollection<EventRegistration> EventRegistrations { get; set; } = new List<EventRegistration>();
         public string? PosterUrl { get; set; } = "/images/default.js";
 
 
